@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\אפרת\\שנה א\\מונחה עצמים\\xo\\xo\\xo.csproj",
+      "projectUniqueName": "C:\\Sostware\\שנה א\\xo\\xo\\xo.csproj",
       "projectName": "xo",
-      "projectPath": "D:\\אפרת\\שנה א\\מונחה עצמים\\xo\\xo\\xo.csproj",
+      "projectPath": "C:\\Sostware\\שנה א\\xo\\xo\\xo.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\אפרת\\שנה א\\מונחה עצמים\\xo\\xo\\obj\\",
+      "outputPath": "C:\\Sostware\\שנה א\\xo\\xo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

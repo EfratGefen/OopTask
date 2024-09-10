@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\",
+  "WorkspaceRootPath": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|d:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,73 +38,78 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "player.cs",
-              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\player.cs",
+              "DocumentMoniker": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\player.cs",
               "RelativeDocumentMoniker": "xo\\player.cs",
-              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\player.cs",
+              "ToolTip": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\player.cs",
               "RelativeToolTip": "xo\\player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T09:40:34.095Z"
+              "WhenOpened": "2024-09-10T09:40:34.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "computer.cs",
-              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\computer.cs",
+              "DocumentMoniker": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\computer.cs",
               "RelativeDocumentMoniker": "xo\\computer.cs",
-              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\computer.cs",
+              "ToolTip": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\computer.cs",
               "RelativeToolTip": "xo\\computer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T09:40:34.134Z"
+              "WhenOpened": "2024-09-10T09:40:34.134Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "person.cs",
-              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\person.cs",
+              "DocumentMoniker": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\person.cs",
               "RelativeDocumentMoniker": "xo\\person.cs",
-              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\person.cs",
+              "ToolTip": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\person.cs",
               "RelativeToolTip": "xo\\person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T09:40:34.139Z"
+              "WhenOpened": "2024-09-10T09:40:34.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "board.cs",
-              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\board.cs",
+              "DocumentMoniker": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\board.cs",
               "RelativeDocumentMoniker": "xo\\board.cs",
-              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\board.cs",
+              "ToolTip": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\board.cs",
               "RelativeToolTip": "xo\\board.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T09:40:34.142Z"
+              "WhenOpened": "2024-09-10T09:40:34.142Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "maneger.cs",
-              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\maneger.cs",
+              "DocumentMoniker": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\maneger.cs",
               "RelativeDocumentMoniker": "xo\\maneger.cs",
-              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\maneger.cs",
+              "ToolTip": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\maneger.cs",
               "RelativeToolTip": "xo\\maneger.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwEEAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T09:40:34.146Z"
+              "WhenOpened": "2024-09-10T09:40:34.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\Program.cs",
+              "DocumentMoniker": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\Program.cs",
               "RelativeDocumentMoniker": "xo\\Program.cs",
-              "ToolTip": "D:\\\u05D0\u05E4\u05E8\u05EA\\\u05E9\u05E0\u05D4 \u05D0\\\u05DE\u05D5\u05E0\u05D7\u05D4 \u05E2\u05E6\u05DE\u05D9\u05DD\\xo\\xo\\Program.cs",
+              "ToolTip": "C:\\Sostware\\\u05E9\u05E0\u05D4 \u05D0\\xo\\xo\\Program.cs",
               "RelativeToolTip": "xo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-10T09:40:34.15Z",
               "EditorCaption": ""

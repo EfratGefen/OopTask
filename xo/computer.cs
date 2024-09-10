@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace xo
-{//אפרת גפן
+{
     internal class computer:player
     {
         

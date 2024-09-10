@@ -5,14 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace xo
-{//אפרת גפן
+{
     internal class board
     {
 
-        //public char[,] mat { get; set; }
         public char[,] mat = new char[3, 3];
 
-        //הדפסת הלוח
+        //Print broad
         public void Print()
         {
             for (int i = 0; i < this.mat.GetLength(0); i++)
@@ -27,7 +26,7 @@ namespace xo
             }
         }
 
-        //בדיקה האם  המיקום ריק
+        //Check empty place
         public bool Isnull(int i, int j)
         {
             if (this.mat[i, j] != 'x'&& this.mat[i, j]!='o')
@@ -35,13 +34,13 @@ namespace xo
             return false;
         }
 
-        //הצבה
+        //insert the value to the match place
         public void insert(int i, int j, char c)
         {
             this.mat[i, j] = c;
         }
 
-        //בדיקת מנצח
+        //Check winner
         public bool Iswin(char c)
         {
             int c1 = 0;
